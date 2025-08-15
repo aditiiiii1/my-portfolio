@@ -6,4 +6,5 @@ A modern portfolio built with React and Tailwind CSS
 ## Features
 - Responsive design
 - Google Analytics integration
-- [Live Demo](https://aditiii.vercel.app)
+- [Live Demo](https://aditiiiii.vercel.app/)
+
